@@ -1,5 +1,5 @@
-import Commands.MercyMain;
-import Main.BotDriver;
+import commands.MercyMain;
+import main.BotDriver;
 import net.dv8tion.jda.api.entities.Activity;
 
 import javax.security.auth.login.LoginException;

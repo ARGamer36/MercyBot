@@ -1,6 +1,6 @@
-package Commands;
+package commands;
 
-import Main.MainCommands;
+import main.MainCommands;
 
 public class MercyMain extends MainCommands {
     public MercyMain(String version) {
