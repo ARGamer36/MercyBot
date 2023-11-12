@@ -11,7 +11,7 @@
 
     <modules>
         <module>ARJI</module>
-        <module>Mercy</module>
+        <module>Driver</module>
     </modules>
 
     <properties>
